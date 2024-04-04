@@ -1,7 +1,8 @@
+
 function AboutUs() {
     return(
         <>
-            <div className="container-fluid d-flex justify-content-center">
+            <div className="container-fluid d-flex justify-content-center mt-5">
                 <div className="container d-flex direction-column align-items-center">
                     <h2 className="text-align-center">O NÁS</h2>
                     <div className="container d-flex">
