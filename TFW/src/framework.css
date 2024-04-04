@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+:root,
+body {
+    background-color: #111111;
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.container-fluid {
+    width: 100%;
+}
+
+.container {
+    width: 70%;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.direction-column {
+    flex-direction: column;
+}

@@ -1,0 +1,46 @@
+.header {
+    top: 0;
+    position: sticky;
+    background-color: #111111;
+    z-index: 1;
+}
+
+.header-nav {
+    width: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10vh;
+}
+
+.logo-container {
+    width: auto;
+    display: flex;
+}
+
+.logo {
+    width: 120px;
+}
+
+.nav {
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+}
+
+.nav-item {
+    display: inline;
+    padding: 16px;
+    font-size: 20px;
+    font-family: "Source Code Pro", monospace;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}
+
+.img-fluid {
+    width: 100%;
+    z-index: 0;
+}
