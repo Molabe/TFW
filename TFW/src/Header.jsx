@@ -7,7 +7,7 @@ function Header() {
         <nav className="header-nav">
           <div className="logo-container align-items-center">
             <img src={logo} alt="TFW Logo" className="logo" />
-            <p>[meno skupiny] {/*Meno*/}</p>
+            <p>Czech Lion Regiment {/*Meno*/}</p>
           </div>
           <ul className="nav">
             <li className="nav-item">
